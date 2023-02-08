@@ -1,0 +1,15 @@
+/home/sneg/Documents/C#/RomenNumerals/bin/Debug/net7.0/RomenNumerals
+/home/sneg/Documents/C#/RomenNumerals/bin/Debug/net7.0/RomenNumerals.deps.json
+/home/sneg/Documents/C#/RomenNumerals/bin/Debug/net7.0/RomenNumerals.runtimeconfig.json
+/home/sneg/Documents/C#/RomenNumerals/bin/Debug/net7.0/RomenNumerals.dll
+/home/sneg/Documents/C#/RomenNumerals/bin/Debug/net7.0/RomenNumerals.pdb
+/home/sneg/Documents/C#/RomenNumerals/obj/Debug/net7.0/RomenNumerals.csproj.AssemblyReference.cache
+/home/sneg/Documents/C#/RomenNumerals/obj/Debug/net7.0/RomenNumerals.GeneratedMSBuildEditorConfig.editorconfig
+/home/sneg/Documents/C#/RomenNumerals/obj/Debug/net7.0/RomenNumerals.AssemblyInfoInputs.cache
+/home/sneg/Documents/C#/RomenNumerals/obj/Debug/net7.0/RomenNumerals.AssemblyInfo.cs
+/home/sneg/Documents/C#/RomenNumerals/obj/Debug/net7.0/RomenNumerals.csproj.CoreCompileInputs.cache
+/home/sneg/Documents/C#/RomenNumerals/obj/Debug/net7.0/RomenNumerals.dll
+/home/sneg/Documents/C#/RomenNumerals/obj/Debug/net7.0/refint/RomenNumerals.dll
+/home/sneg/Documents/C#/RomenNumerals/obj/Debug/net7.0/RomenNumerals.pdb
+/home/sneg/Documents/C#/RomenNumerals/obj/Debug/net7.0/RomenNumerals.genruntimeconfig.cache
+/home/sneg/Documents/C#/RomenNumerals/obj/Debug/net7.0/ref/RomenNumerals.dll
